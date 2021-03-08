@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Emmett 👋
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=emleddin&count_private=true&show_icons=true&theme=vue)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=emleddin&hide=javascript&layout=compact)
 
 <!--
 **emleddin/emleddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [Add your own stats cards](https://github.com/anuraghazra/github-readme-stats)
 -->
