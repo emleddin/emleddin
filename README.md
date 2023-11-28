@@ -1,6 +1,6 @@
 ### Hi, I'm Emmett 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=emleddin&count_private=true&show_icons=true&theme=vue)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=emleddin&count_private=true&show_icons=true&theme=vue) -->
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=emleddin&hide=javascript&layout=compact)
 
 <!--
@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - [Add your own stats cards](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+I'm currently a medical student.
+
+Check out the work that [THRIVE Lifeline](https://thrivelifeline.org/) is doing!
